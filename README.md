@@ -46,8 +46,6 @@ Operaciones principales:
 - contiene(clave): Verifica la existencia de una clave.
 - tamano(), claves(), valores(): Metodos auxiliares para obtener informacion de la tabla.
 
-Se utilizo el diccionario nativo de Python internamente para funcionalidad.
-
 ## Explicacion del Flujo del Programa de Pruebas
 
 El archivo main.py contiene funciones para probar cada estructura por separado:
