@@ -28,7 +28,7 @@ class Stack:
         # Detecta si la lista está vacia
         return len(self._elementos) == 0
 
-    def tamaño(self):
+    def tamano(self):
         # Retorna la cantidad de elementos
         return len(self._elementos)
 

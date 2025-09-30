@@ -26,7 +26,7 @@ def probar_stack():
     print("Despues de desapilar:", pila)
 
     # Imprime la cantidad de elementos en el stack
-    print("Tamaño:", pila.tamaño())
+    print("Tamaño:", pila.tamano())
 
     # Indica si el stack esta vacio
     print("¿Vacia?:", pila.esta_vacia())
@@ -56,7 +56,7 @@ def probar_queue():
     print("Despues de desencolar:", cola)
 
     # Imprime la cantidad de elementos
-    print("Tamaño:", cola.tamaño())
+    print("Tamaño:", cola.tamano())
 
     # Indica si esta vacia
     print("¿Vacia?:", cola.esta_vacia())

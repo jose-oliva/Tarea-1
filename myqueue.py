@@ -26,7 +26,7 @@ class Queue:
         # Retorna True si la cola no tiene elementos
         return len(self._elementos) == 0
 
-    def tamaño(self):
+    def tamano(self):
         # Retorna el numero de elementos
         return len(self._elementos)
 
